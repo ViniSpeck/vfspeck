@@ -1,4 +1,3 @@
-# vfspeck
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
 <h3 align="center">A data engineer from Brazil</h3>
 
